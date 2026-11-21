@@ -6,6 +6,8 @@ A dark VS Code theme with bayou-night greens, lily-pad jade, pale moss light and
 
 ## Palette
 
+<img src="images/palette.png" alt="Frog Princess palette">
+
 <!-- palette:start -->
 | Role | Color |
 | --- | --- |
