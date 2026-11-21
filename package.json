@@ -1,0 +1,40 @@
+{
+  "name": "frog-princess",
+  "displayName": "Frog Princess",
+  "description": "A dark VS Code theme with bayou-night greens, lily-pad jade, pale moss light and a glint of firefly gold.",
+  "version": "0.0.1",
+  "publisher": "thaisemanuele",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "green",
+    "mint",
+    "jade",
+    "gold",
+    "bayou"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thaisemanuele/frog-princess"
+  },
+  "galleryBanner": {
+    "color": "#101d1a",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Frog Princess",
+        "uiTheme": "vs-dark",
+        "path": "./themes/frog-princess-color-theme.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Frog Princess",
+  "slug": "frog-princess",
+  "description": "A dark VS Code theme with bayou-night greens, lily-pad jade, pale moss light and a glint of firefly gold.",
+  "keywords": ["theme", "dark theme", "green", "mint", "jade", "gold", "bayou"],
+  "colors": {
+    "bgDeep": "#0B1513",
+    "bgEditor": "#101D1A",
+    "bgWidget": "#1A2F2A",
+    "accent": "#356C53",
+    "text": "#E8EEE2",
+    "comment": "#7E9A92",
+    "keyword": "#83C9A0",
+    "func": "#94D6C9",
+    "string": "#D2E8A4",
+    "type": "#A6E3C0",
+    "special": "#E5C681"
+  },
+  "tokenOverrides": {
+    "Control flow and module keywords": { "foreground": "#6CD199", "fontStyle": "italic" },
+    "Type, class and interface": { "foreground": "#E5C681", "fontStyle": "italic" },
+    "Number": { "foreground": "#E5C681" },
+    "Language constant": { "foreground": "#E5C681" }
+  },
+  "semanticOverrides": {
+    "class": { "foreground": "#E5C681", "italic": true },
+    "type": { "foreground": "#E5C681", "italic": true },
+    "interface": { "foreground": "#E5C681", "italic": true },
+    "typeParameter": { "foreground": "#E5C681", "italic": true },
+    "enum": { "foreground": "#E5C681", "italic": true }
+  },
+  "overrides": {
+    "activityBar.inactiveForeground": "#8FAAA0",
+    "activityBarTop.inactiveForeground": "#8FAAA0",
+    "modernActivityBarItem.activeBackground": "#1E3D32",
+    "activityBarBadge.background": "#E5C681",
+    "activityBarBadge.foreground": "#101D1A",
+    "editorCursor.foreground": "#E5C681"
+  },
+  "readmeTable": [
+    ["Sidebar and panels", "#0B1513"],
+    ["Editor background", "#101D1A"],
+    ["Menus, inputs and widgets", "#1A2F2A"],
+    ["UI accent (selection, buttons)", "#356C53"],
+    ["Text", "#E8EEE2"],
+    ["Comments", "#7E9A92"],
+    ["Keywords, operators, tags", "#83C9A0"],
+    ["Control flow (italic)", "#6CD199"],
+    ["Functions, keys, attributes", "#94D6C9"],
+    ["Strings", "#D2E8A4"],
+    ["Highlights and links", "#A6E3C0"],
+    ["Firefly gold: types, numbers, constants, this, regex, cursor", "#E5C681"]
+  ]
+}
