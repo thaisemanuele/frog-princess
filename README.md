@@ -1,3 +1,5 @@
+<p align="center"><img src="images/banner.png" alt="Frog Princess" width="320"></p>
+
 # Frog Princess
 
 A dark VS Code theme with bayou-night greens, lily-pad jade, pale moss light and a glint of firefly gold.
